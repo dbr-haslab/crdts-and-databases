@@ -12,3 +12,16 @@ This tutorial covers how to bring these two worlds together. First, it provides 
 - [Part 2: CRDTs in database systems](slides/part2-survey.pdf)
 - [Part 3: CRDVs Hands-On](slides/part3-hands-on.pdf)
 - [Part 4: Open challenges](slides/part4-challenges.pdf)
+
+## Related work
+
+- Paulo Sérgio Almeida. 2025. Approaches to Conflict-free Replicated Data Types.
+ACM Comput. Surv. 57, 2 (2025), 51:1–51:36. [DOI:10.1145/3695249](https://doi.org/10.1145/3695249)
+
+- Nuno Faria and José Pereira. 2025. CRDV: Conflict-free Replicated Data Views.
+Proc. ACM Manag. Data 3, 1, Article 25 (Feb. 2025). [DOI:1145/3709675](https://doi.org/10)
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
