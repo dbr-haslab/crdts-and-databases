@@ -19,7 +19,7 @@ This tutorial covers how to bring these two worlds together. First, it provides 
 ACM Comput. Surv. 57, 2 (2025), 51:1–51:36. [DOI:10.1145/3695249](https://doi.org/10.1145/3695249)
 
 - Nuno Faria and José Pereira. 2025. CRDV: Conflict-free Replicated Data Views.
-Proc. ACM Manag. Data 3, 1, Article 25 (Feb. 2025). [DOI:1145/3709675](https://doi.org/10)
+Proc. ACM Manag. Data 3, 1, Article 25 (Feb. 2025). [DOI:1145/3709675](https://doi.org/10.1145/3709675)
 
 ## License
 
