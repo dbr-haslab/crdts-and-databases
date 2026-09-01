@@ -21,6 +21,10 @@ ACM Comput. Surv. 57, 2 (2025), 51:1–51:36. [DOI:10.1145/3695249](https://doi.
 - Nuno Faria and José Pereira. 2025. CRDV: Conflict-free Replicated Data Views.
 Proc. ACM Manag. Data 3, 1, Article 25 (Feb. 2025). [DOI:1145/3709675](https://doi.org/10.1145/3709675)
 
+## Demo
+
+A browser-based demo of CRDV is available at https://nuno-faria.github.io/crdv/demo/.
+
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
